@@ -99,3 +99,9 @@ Alta3 Research Training Project
 - Gotham weather  
 - Alfred assistant  
 - Bat-Signal tracker  
+
+## Added New Files:
+- Added Requirements.txt
+- Added batmanAPI.py file
+- \docs\release_notes.md
+- 
